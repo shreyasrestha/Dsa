@@ -1,6 +1,10 @@
+#Problem: Valid Anagram 
+#Platform: LeetCode (125)
+#Difficulty: Easy
+#Topic: String
 
-
-
+#Approach 1
+#time complexity : O(n^2)
 
 def isPalindrome(self, s: str) -> bool:
         string=""
